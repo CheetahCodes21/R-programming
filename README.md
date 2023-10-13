@@ -37,7 +37,5 @@ If you're new to R and want to start learning, follow these steps to set up your
 
 If you'd like to contribute to this repository by adding more examples, tutorials, or improving the documentation, please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
 
-Even eligible for Hacktoberfest 2k23 contributions 
-contribute and send PR's 
-let's make this the most informative Repository for R language 
+
 ---
