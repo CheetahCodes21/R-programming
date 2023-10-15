@@ -36,6 +36,4 @@ If you're new to R and want to start learning, follow these steps to set up your
 ## Contributing
 
 If you'd like to contribute to this repository by adding more examples, tutorials, or improving the documentation, please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
-
-
 ---
